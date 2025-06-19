@@ -151,16 +151,6 @@ Enhance `script.js` to add more features:
 3. Select source branch (usually `main`)
 4. Your site will be available at `https://yourusername.github.io/repository-name`
 
-### Netlify
-1. Connect your GitHub repository to Netlify
-2. Deploy automatically on every push
-3. Custom domain support available
-
-### Vercel
-1. Import your GitHub repository
-2. Automatic deployments on push
-3. Built-in performance optimization
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
@@ -171,10 +161,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Design inspiration from modern portfolio websites
@@ -184,11 +170,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [igabeshamiplacide@gmail.com](mailto:igabeshamiplacide@gmail.com)
+Shami Placide - [igabeshamiplacide@gmail.com](mailto:igabeshamiplacide@gmail.com)
 
 Project Link: [https://github.com/ShamiPlacide/portfolio_rep](https://github.com/ShamiPlacide/portfolio-website)
 
-Live Demo: [https://yourusername.github.io/portfolio-website](https://ShamiPlacide.github.io/portfolio_repo)
+Live Demo: [https://ShamiPlacide.github.io/portfolio-website](https://ShamiPlacide.github.io/portfolio_repo)
 
 ---
 
